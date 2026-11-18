@@ -1,6 +1,6 @@
 # spinning donut program
 
-My take on the classic [Spinning Donut Program](https://www.a1k0n.net/2011/07/20/donut-math.html) written by a1k0n. I wrote this program using his math, with the implementation being entirely my own. 
+My take on the classic [Spinning Donut Program](https://www.a1k0n.net/2011/07/20/donut-math.html) written by a1k0n. I wrote this program using their math, with the implementation being entirely my own. 
 
 This program also contains a few funny features, such as being able to adjust the speed of the donut's spin and also to add in audio which the donut will spin in sync with. 
 
